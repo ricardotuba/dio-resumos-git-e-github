@@ -9,7 +9,7 @@ Repositorio para armazenar resumos sobre Git e GitHub sobre Versionamento de cod
 ## 💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositorio Local |[Resumos]()|
+| Gravando Alterações no Repositorio Local |[Resumo]()|
 
 ```
 git init
